@@ -1,0 +1,18 @@
+p {
+  background-color: pink;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#n2 {
+  color: blue;
+  font-size: 36px;
+}
+
+.tf {
+  font-size: 24px;
+}
+
+#n4 {
+  background-color: lightgreen;
+  font-weight: bold;
+}
